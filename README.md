@@ -26,12 +26,12 @@ This is a Python-based **Note-Taking Application** designed to manage and organi
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ismailbenalaya/Note-Taking-Application.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd <project-directory>
+    cd Note-Taking-Application
     ```
 
 3. Run the application:
@@ -105,5 +105,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any questions or feedback, feel free to reach out to me:
 
 - **Name**: Mohamed Ismail
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+- **GitHub**: [https://github.com/ismailbenalaya](https://github.com/ismailbenalaya)
 
